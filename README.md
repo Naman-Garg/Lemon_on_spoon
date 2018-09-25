@@ -1,4 +1,4 @@
-# Lemon_on_spoon
+# Object Recognition using MATLAB
  
  To run above code:-
 
